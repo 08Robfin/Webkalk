@@ -1,0 +1,13 @@
+{
+  "name": "webkalk",
+  "version": "1.0.0",
+  "main": "index.html",
+ "type": "module",
+ "scripts": {
+    "test": "node --test"
+  },
+  
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
